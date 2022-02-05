@@ -29,12 +29,57 @@ Grading
 
 The grading will be weighted as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm Take-Home Assignment | 35% |
-| Final Take-Home Assignment | 55% |
-| Problem Sets | 10% |
-| Class Participation | Discretionary small change of grade\* 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Take-Home Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Take-Home Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+Discretionary small change of grade\*
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Notes
 -----

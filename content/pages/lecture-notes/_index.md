@@ -4,20 +4,227 @@ title: Lecture Notes
 uid: 10dbcabc-062f-5677-9628-24c6d3457998
 ---
 
-| SES # | LECTURE NOTES | SUPPORTING FILES |
-| --- | --- | --- |
-| 1–2 | [Manufacturing Systems Overview (PDF)]({{< baseurl >}}/resources/mit2_854f16_introduction) | &nbsp; |
-| 3–4 | [Probability (PDF)]({{< baseurl >}}/resources/mit2_854f16_probability) |  {{< br >}}{{< br >}} [Notes on Covariance]({{< baseurl >}}/pages/lecture-notes/notes-on-covariance) {{< br >}}{{< br >}} [Example of independence (PDF)]({{< baseurl >}}/resources/mit2_854f16_independenceex) {{< br >}}{{< br >}} [Memorylessness]({{< baseurl >}}/pages/lecture-notes/memorylessness) {{< br >}}{{< br >}}  |
-| 5–6 | [Queueing Systems (PDF)]({{< baseurl >}}/resources/mit2_854f16_queueing) |  {{< br >}}{{< br >}} [MM1 Simulation (FSM)]({{< baseurl >}}/resources/mm1_sim) {{< br >}}{{< br >}} [DD1 Simulation (FSM)]({{< baseurl >}}/resources/dd1_sim) {{< br >}}{{< br >}} [Derivation of Exponential Distribution]({{< baseurl >}}/pages/lecture-notes/derivation-of-exponential-distribution) {{< br >}}{{< br >}} [M/M/1 Queue (PDF)]({{< baseurl >}}/resources/mit2_854f16_mm1queue) {{< br >}}{{< br >}} [Example of Transition Equation (PDF)]({{< baseurl >}}/resources/mit2_854f16_transitionequ) {{< br >}}{{< br >}}  |
-| 7–8 | [Inventory (PDF)]({{< baseurl >}}/resources/mit2_854f16_inventory) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Information Inaccuracy in Inventory Systems (PDF)](https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf) |
-| 9–11 | [Optimization (PDF)]({{< baseurl >}}/resources/mit2_854f16_optimization) |  {{< br >}}{{< br >}} [LP Example (PDF)]({{< baseurl >}}/resources/mit2_854f16_lpexample) {{< br >}}{{< br >}} [KKT Example (PDF)]({{< baseurl >}}/resources/mit2_854f16_kktexample) {{< br >}}{{< br >}}  |
-| 12–14 | [Single-Part-Type Systems (PDF - 2.2MB)]({{< baseurl >}}/resources/mit2_854f16_singlepart) | [The Mysterious τ]({{< baseurl >}}/pages/lecture-notes/the-mysterious-t) |
-| 15 | [Single-Part-Type, Multiple-Stage Systems (PDF)]({{< baseurl >}}/resources/mit2_854f16_multiplepart) | &nbsp; |
-| 16 | [Material Requirements Planning (PDF)]({{< baseurl >}}/resources/mit2_854f16_matrialrequire) | &nbsp; |
-| 17–18 | [Multi-Stage Control and Scheduling (PDF)]({{< baseurl >}}/resources/mit2_854f16_control) | &nbsp; |
-| 19–20 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Simulation (PDF)]({{< baseurl >}}/resources/mit2_854f16_simulation) | &nbsp; |
-| 21 | [Toyota Production System (PDF)]({{< baseurl >}}/resources/mit2_854f16_toyotaprodsys) | &nbsp; |
-| 22 | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quality / Quantity Interactions (PDF)]({{< baseurl >}}/resources/mit2_854f16_qualquan) | &nbsp; |
-| 23 | [Analysis, Control, and Design of Stochastic Flow Systems with Limited Storage (PDF)]({{< baseurl >}}/resources/mit2_854f16_analysis) | &nbsp; |
-| 24 | [The Control Point Policy (PDF)]({{< baseurl >}}/resources/mit2_854f16_ctrlpointpolcy) | &nbsp; |
-| 25 | [Recycling Systems Engineering (PDF)]({{< baseurl >}}/resources/mit2_854f16_recycling) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+[Manufacturing Systems Overview (PDF)]({{< baseurl >}}/resources/mit2_854f16_introduction)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+[Probability (PDF)]({{< baseurl >}}/resources/mit2_854f16_probability)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Notes on Covariance]({{< baseurl >}}/pages/lecture-notes/notes-on-covariance)
+
+[Example of independence (PDF)]({{< baseurl >}}/resources/mit2_854f16_independenceex)
+
+[Memorylessness]({{< baseurl >}}/pages/lecture-notes/memorylessness)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+[Queueing Systems (PDF)]({{< baseurl >}}/resources/mit2_854f16_queueing)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[MM1 Simulation (FSM)]({{< baseurl >}}/resources/mm1_sim)
+
+[DD1 Simulation (FSM)]({{< baseurl >}}/resources/dd1_sim)
+
+[Derivation of Exponential Distribution]({{< baseurl >}}/pages/lecture-notes/derivation-of-exponential-distribution)
+
+[M/M/1 Queue (PDF)]({{< baseurl >}}/resources/mit2_854f16_mm1queue)
+
+[Example of Transition Equation (PDF)]({{< baseurl >}}/resources/mit2_854f16_transitionequ)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–8
+{{< tdclose >}}
+{{< tdopen >}}
+[Inventory (PDF)]({{< baseurl >}}/resources/mit2_854f16_inventory)
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Information Inaccuracy in Inventory Systems (PDF)](https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–11
+{{< tdclose >}}
+{{< tdopen >}}
+[Optimization (PDF)]({{< baseurl >}}/resources/mit2_854f16_optimization)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[LP Example (PDF)]({{< baseurl >}}/resources/mit2_854f16_lpexample)
+
+[KKT Example (PDF)]({{< baseurl >}}/resources/mit2_854f16_kktexample)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–14
+{{< tdclose >}}
+{{< tdopen >}}
+[Single-Part-Type Systems (PDF - 2.2MB)]({{< baseurl >}}/resources/mit2_854f16_singlepart)
+{{< tdclose >}}
+{{< tdopen >}}
+[The Mysterious τ]({{< baseurl >}}/pages/lecture-notes/the-mysterious-t)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Single-Part-Type, Multiple-Stage Systems (PDF)]({{< baseurl >}}/resources/mit2_854f16_multiplepart)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[Material Requirements Planning (PDF)]({{< baseurl >}}/resources/mit2_854f16_matrialrequire)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17–18
+{{< tdclose >}}
+{{< tdopen >}}
+[Multi-Stage Control and Scheduling (PDF)]({{< baseurl >}}/resources/mit2_854f16_control)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–20
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Simulation (PDF)]({{< baseurl >}}/resources/mit2_854f16_simulation)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+[Toyota Production System (PDF)]({{< baseurl >}}/resources/mit2_854f16_toyotaprodsys)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quality / Quantity Interactions (PDF)]({{< baseurl >}}/resources/mit2_854f16_qualquan)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+[Analysis, Control, and Design of Stochastic Flow Systems with Limited Storage (PDF)]({{< baseurl >}}/resources/mit2_854f16_analysis)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+[The Control Point Policy (PDF)]({{< baseurl >}}/resources/mit2_854f16_ctrlpointpolcy)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+[Recycling Systems Engineering (PDF)]({{< baseurl >}}/resources/mit2_854f16_recycling)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
