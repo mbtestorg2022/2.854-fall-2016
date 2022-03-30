@@ -4,6 +4,7 @@ description: This special file contains information regarding introduction to ma
   systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-854-introduction-to-manufacturing-systems-fall-2016/5b1ae722cd0ff574c198eb656351255b_DD1_sim.fsm
 file_type: application/octet-stream
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Other
 title: DD1_sim.fsm
 uid: 5b1ae722-cd0f-f574-c198-eb656351255b
