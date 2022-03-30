@@ -84,7 +84,7 @@ SUPPORTING FILES
 [Inventory (PDF)]({{< baseurl >}}/resources/mit2_854f16_inventory)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Information Inaccuracy in Inventory Systems (PDF)](https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf)
+[Information Inaccuracy in Inventory Systems (PDF)](https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ SUPPORTING FILES
 19–20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Simulation (PDF)]({{< baseurl >}}/resources/mit2_854f16_simulation)
+[Simulation (PDF)]({{< baseurl >}}/resources/mit2_854f16_simulation)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -183,7 +183,7 @@ SUPPORTING FILES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quality / Quantity Interactions (PDF)]({{< baseurl >}}/resources/mit2_854f16_qualquan)
+[Quality / Quantity Interactions (PDF)]({{< baseurl >}}/resources/mit2_854f16_qualquan)
 {{< tdclose >}}
 {{< tdopen >}}
  
